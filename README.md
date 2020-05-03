@@ -4,7 +4,7 @@
 
 # Tecnologias
 
-ReactJS NodeJS :purple_heart: :purple_heart:
+TypeScript ReactJS NodeJS :purple_heart: :purple_heart: :purple_heart:
 
 <img src="img/githubexplorer.gif" alt="drawing" width="900"/>
 

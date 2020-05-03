@@ -6,7 +6,7 @@
 
 ReactJS NodeJS :purple_heart: :purple_heart:
 
-<img src="img/githubexplorer.gif" alt="drawing" width="700"/>
+<img src="img/githubexplorer.gif" alt="drawing" width="900"/>
 
 ## :pencil2: Development setup
 

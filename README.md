@@ -10,12 +10,6 @@ ReactJS NodeJS :purple_heart: :purple_heart:
 
 ## :pencil2: Development setup
 
-Api
-```sh
-npm install or yarn
-npm start or yarn start
-```
-Frontend
 ```sh
 npm install or yarn
 npm start or yarn start
